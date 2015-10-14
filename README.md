@@ -12,4 +12,4 @@ git push
 
 remember configure user e pass in git
 
-Thx for Alessio Abrugiati
+Thx Alessio Abrugiati for help me
